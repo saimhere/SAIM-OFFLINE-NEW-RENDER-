@@ -1,1 +1,1 @@
-web: python SAM-CONVO.py
+web: python main.py
